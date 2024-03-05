@@ -35,13 +35,14 @@ I hope you have a great day today : )
 
 ## 💚 Tools
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Github-171717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
 <br>
 
 ## 💚 Me
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/ttubin_"/>&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](ttubiny@gmail.com)&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ttubin/)&nbsp;
+[<img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/>](https://blog.naver.com/ttubin_)&nbsp;
 <br>
 
 ## 💚 Today
