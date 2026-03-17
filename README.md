@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,22,23,24&height=200&section=header&text=TTUBIN&fontSize=48&fontAlign=85&animation=twinkling)
 
 Hi There 🖐🏻 This is Soobin Jeong, from South Korea.<br>
-I'm working as a web publisher now, and I started studying to become a Front-end developer.<br>
+I'm working a frontend-friendly Web Publisher, and I'm studying to become a Front-end developer.<br>
 If you want to contact me, please send me an email!<br>
 I hope you have a great day today : )
 <br>
